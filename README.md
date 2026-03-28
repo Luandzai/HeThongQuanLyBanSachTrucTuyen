@@ -85,10 +85,6 @@ Do Front-end sử dụng mã HTML/JS thuần (dạng tĩnh):
 2. Mở thẳng file `index.html` trong trình duyệt web để kích hoạt màn hình Trang chủ của trang web. Hoặc tốt nhất, cài đặt và mở bằng **Live Server** extension trong VS Code để tạo host ảo trên máy.
 
 ## Hình ảnh minh họa (Screenshots)
-*(Khuyến nghị cho tác giả: Trong CV hoặc trên Github công khai, hãy chụp 3-4 bức ảnh màn hình thực tế của ứng dụng (Trang chủ, Giỏ hàng, và Admin Dashboard), lưu vào thư mục `img/` và chèn link tại đây)*
-- *[Hình 1 - Giao diện trang chủ]*
-- *[Hình 2 - Giao diện thanh toán]*
-- *[Hình 3 - Giao diện quản lý Admin KPI]*
 
 ---
 *Dự án được xây dựng và thiết kế nhằm mục đích hoàn thiện quá trình nghiên cứu & phát triển học thuật. Phù hợp cho việc trình diễn kỹ năng xây dựng Web API và Full-stack Web Development.*
